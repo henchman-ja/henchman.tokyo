@@ -1,0 +1,5 @@
+baseURL = "http://henchman.tokyo/"
+languageCode = "ja-jp"
+title = "日本 Henchman 使ってみる会"
+publishDir = "docs"
+theme = "ananke"
