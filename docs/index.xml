@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>日本 Henchman 使ってみる会</title>
+    <link>http://henchman.tokyo/</link>
+    <description>Recent content on 日本 Henchman 使ってみる会</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Fri, 21 Jul 2017 16:37:18 +0900</lastBuildDate>
+    
+	<atom:link href="http://henchman.tokyo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Main</title>
+      <link>http://henchman.tokyo/post/main/</link>
+      <pubDate>Fri, 21 Jul 2017 16:37:18 +0900</pubDate>
+      
+      <guid>http://henchman.tokyo/post/main/</guid>
+      <description>このサイトは Apigee の github リポジトリにひっそりと存在する henchman を使ってみようという「日本Henchman使ってみよう会」という名前の活動をしているサイトです。
+ユーザ会とか立ち上げて運営するほどのマンパワーがないけど、henchman がひっそり埋もれているのは勿体ないと思い作りました。</description>
+    </item>
+    
+  </channel>
+</rss>

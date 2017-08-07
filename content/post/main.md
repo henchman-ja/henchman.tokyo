@@ -1,7 +1,6 @@
 ---
 title: "Main"
 date: 2017-07-21T16:37:18+09:00
-draft: true
 ---
 
 このサイトは Apigee の github リポジトリにひっそりと存在する henchman を使ってみようという「日本Henchman使ってみよう会」という名前の活動をしているサイトです。
