@@ -2,4 +2,10 @@ baseURL = "http://henchman.tokyo/"
 languageCode = "ja-jp"
 title = "日本 Henchman 使ってみる会"
 publishDir = "docs"
-theme = "ananke"
+theme = "theme-hugo-foundation6"
+[params]
+  author = "日本 Henchman 使ってみる会"
+  [params.sidebar]
+    about = "[日本 Henchman 使ってみる会について](http://henchman.tokyo/post/main/)"
+  [params.social]
+    twitter = "habuka036"
